@@ -1,3 +1,7 @@
+# This file "load_data.py" was taken from the diffpool repository in order to
+# help me deal with the datasets. You can find the original here:
+# https://github.com/RexYing/diffpool/blob/master/load_data.py
+
 import networkx as nx
 import numpy as np
 import scipy as sc
