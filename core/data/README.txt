@@ -1,6 +1,6 @@
 README for data folder
 
-This folder contains five zip files, having the following contents:
+This folder should contains five zip files, having the following contents:
 
 (1) 	data.zip
 	it contains four unzipped folders, called "ENZYMES", "DD", "PROTEINS"
@@ -17,3 +17,7 @@ This folder contains five zip files, having the following contents:
 
 (5) 	data_COLLAB.zip
 	like data.zip, but it contains only "COLLAB" folder
+
+Only data_ENZYMES.zip, data_DD.zip and data_PROTEINS.zip are present because
+the other two zip files were too big, but you can download the missing COLLAB
+dataset at https://ls11-www.cs.tu-dortmund.de/staff/morris/graphkerneldatasets
