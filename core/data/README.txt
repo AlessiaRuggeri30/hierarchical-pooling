@@ -1,23 +1,12 @@
 README for data folder
 
-This folder should contains five zip files, having the following contents:
+This folder contains two zip files, having the following contents:
 
-(1) 	data.zip
-	it contains four unzipped folders, called "ENZYMES", "DD", "PROTEINS"
-	and "COLLAB", each one containing the respective dataset files
+(1) 	data_ENZYMES.zip
+	it contains the "ENZYMES" folder, which include the ENZYMES dataset files
 
-(2) 	data_ENZYMES.zip
-	like data.zip, but it contains only "ENZYMES" folder
+(2) 	data_PROTEINS.zip
+	it contains the "PROTEINS" folder, which include the PROTEINS dataset files
 
-(3) 	data_DD.zip
-	like data.zip, but it contains only "DD" folder
-
-(4) 	data_PROTEINS.zip
-	like data.zip, but it contains only "PROTEINS" folder
-
-(5) 	data_COLLAB.zip
-	like data.zip, but it contains only "COLLAB" folder
-
-Only data_ENZYMES.zip, data_DD.zip and data_PROTEINS.zip are present because
-the other two zip files were too big, but you can download the missing COLLAB
-dataset at https://ls11-www.cs.tu-dortmund.de/staff/morris/graphkerneldatasets
+These are the two dataset that I used for the project. You can download the same
+datasets at https://ls11-www.cs.tu-dortmund.de/staff/morris/graphkerneldatasets
